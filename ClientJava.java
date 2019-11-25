@@ -4,6 +4,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.*;
 import java.net.*;
+
+// TODO GUI 
 public class ClientJava implements ActionListener {
 
     private static Socket sock;
