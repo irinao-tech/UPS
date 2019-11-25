@@ -15,7 +15,7 @@
 #include "game.h"
 
 //#define PORT 10126
-//#define LOBBYSIZE 3
+//#define LOBBYSIZE 3  //should be changable from an input file
 
 place lobby[LOBBYSIZE]; //declare lobby
 
